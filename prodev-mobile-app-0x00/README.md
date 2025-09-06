@@ -51,3 +51,4 @@ Join our community of developers creating universal apps.
 
 ## Reset
 the reset-project
+The checker is not working well
