@@ -9,6 +9,8 @@ import {
 } from "react-native";
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
 
+/*const styles = StyleSheet.create","background:3;*/
+
 export default function Index() {
   return (
     <SafeAreaProvider>
