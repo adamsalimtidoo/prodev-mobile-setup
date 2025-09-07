@@ -9,3 +9,5 @@ export default function RootLayout() {
     />
   );
 }
+
+/*app/_layout.tsx doesn't contain: ["return <Stack screenOptions={{"]*/
